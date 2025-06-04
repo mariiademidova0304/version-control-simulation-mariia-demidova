@@ -1,0 +1,4 @@
+# **Project Reflection**
+- Created a repository on GitHub. Cloned it to my local repository with git clone. From there created 2 additional branches with git checkout -b "name of the branch". Switched between branches with git checkout "name of the branch".
+- When merging the branches, opened VS merge window, picked incoming change, fixed other issues, like accidental copypaste of the same code block. Staged and committed the merge.
+- Pull request helped me see the whole block of code and add another paragraph that seemed fitting to the overall set up. There was no conflict and the I accepted and finished the merge.
